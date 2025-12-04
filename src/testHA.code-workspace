@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "testHA",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
